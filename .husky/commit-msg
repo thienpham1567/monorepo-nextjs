@@ -1,1 +1,2 @@
+echo '📝 Validating commit message...'
 pnpm exec commitlint --edit "$1"
