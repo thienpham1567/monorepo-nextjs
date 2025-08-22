@@ -1,0 +1,16 @@
+{
+  "name": "@shared/styles",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "files": [
+    "*.css",
+    "*.js",
+    "*.ts"
+  ],
+  "devDependencies": {
+    "tailwindcss": "^3.4.0",
+    "postcss": "^8.4.32",
+    "autoprefixer": "^10.4.16"
+  }
+}
